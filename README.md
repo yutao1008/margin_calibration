@@ -30,4 +30,15 @@ python -W ignore eval.py \
     --method mg \
     --snapshot <MODEL_CHECKPOINT_PATH>
 
+If you feel this work useful to your research, please kindly cite the paper as follows:
 
+@article{yu2022distribution,
+  title={Distribution-Aware Margin Calibration for Semantic Segmentation in Images},
+  author={Yu, Litao and Li, Zhibin and Xu, Min and Gao, Yongsheng and Luo, Jiebo and Zhang, Jian},
+  journal={International Journal of Computer Vision},
+  volume={130},
+  number={1},
+  pages={95--110},
+  year={2022},
+  publisher={Springer}
+}
